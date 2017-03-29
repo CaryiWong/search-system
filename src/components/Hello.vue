@@ -1,7 +1,8 @@
 <template>
   <div class="hello">
+    <h1>邹沛我爱你哟</h1>
     <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
+    <h2></h2>
     <ul>
       <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
       <li><a href="https://forum.vuejs.org" target="_blank">Forum</a></li>
